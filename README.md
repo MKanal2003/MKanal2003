@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋 I'm Mallikarjuna Kanal
 
-<!--
-**MKanal2003/MKanal2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer focused on automation, CI/CD pipelines, and cloud infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Engineer – DevOps & Automation at TCS
+- Working with Linux servers, Jenkins pipelines, deployment automation
+- Building DevOps projects using Docker, Kubernetes, and Cloud platforms
+- Passionate about Infrastructure Automation and Cloud Native technologies
+
+---
+
+## 🔧 DevOps Skills
+
+**Cloud**
+- AWS
+- Microsoft Azure
+- Google Cloud Platform
+
+**DevOps Tools**
+- Jenkins
+- Docker
+- Kubernetes
+- Ansible
+- Git / GitHub
+
+**Programming & Scripting**
+- Python
+- Bash
+- Shell Scripting
+
+**Operating Systems**
+- Linux
+
+**Monitoring**
+- Prometheus
+- Grafana
+
+---
+
+## 📂 DevOps Projects
+
+🔹 CI/CD Pipeline with Jenkins, Docker and Kubernetes  
+🔹 Kubernetes Application Deployment  
+🔹 DevOps Command Center Monitoring Dashboard  
+🔹 Infrastructure Automation with Terraform and Ansible
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:  
+https://linkedin.com/in/mallikarjuna-kanal
+
+GitHub:  
+https://github.com/MKanal2003
