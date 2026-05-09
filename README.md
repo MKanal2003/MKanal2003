@@ -201,27 +201,6 @@ RDS, S3           Services
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKanal2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-
-
-## 🎯 2025 Goals
-
-```bash
-$ cat goals.sh
-
-goals=(
-  "☁️  AWS Solutions Architect Certification"
-  "🔧  Master Terraform for multi-cloud IaC"
-  "🚀  Implement ArgoCD for GitOps workflow"
-  "📦  Contribute to open source DevOps tools"
-  "📝  Write DevOps blog posts & share learnings"
-)
-
-for goal in "${goals[@]}"; do
-  echo "[IN PROGRESS] $goal"
-done
-```
-
 ---
 
 ## 💬 DevOps Philosophy
